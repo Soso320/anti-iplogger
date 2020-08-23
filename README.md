@@ -7,6 +7,7 @@ https://i.imgur.com/UxPyUSV.png
 
 # Dependencies
 pip install fake-useragent
+
 pip install proxy-requests
 
 # How to use
