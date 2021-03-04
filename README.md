@@ -1,5 +1,5 @@
 # anti-iplogger
-Python program that uses proxies to spam ip loggers with random useragents
+Python program that uses proxies to spam ip loggers with fake IPs and random useragents
 
 https://i.imgur.com/E2wKmFV.png
 
