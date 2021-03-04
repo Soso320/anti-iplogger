@@ -31,4 +31,4 @@ for i in range(numb):
     print(f"\nRequest #{points} with useragent {agent} Sent [{(time.time() - start_time)} Seconds]")
 
 print(f"\nSuccessfully spammed {url} {numb} time(s)!\n")
-print("\n-------- Execution time --------\n--- %s seconds ---" % (time.time() - start_time))
+print(f"\n-------- Execution time --------\n--- {time.time() - start_time} seconds ---")
